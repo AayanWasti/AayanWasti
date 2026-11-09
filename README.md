@@ -85,9 +85,8 @@ An AI interior design platform that generates personalized room designs and reco
 
 ## 🤝 Let's Connect
 
-* 🌐 Portfolio: https://yourportfolio.vercel.app
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-* 📧 Email: [your@email.com](mailto:your@email.com)
+* 🌐 Portfolio: https://aayan-wasti.vercel.app
+* 💼 LinkedIn: https://ca.linkedin.com/in/aayan-wasti-a890b8269
 
 ---
 
