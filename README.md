@@ -81,19 +81,6 @@ I enjoy learning by building, shipping early versions, finding what doesn't work
 
 Outside my own projects, I enjoy collaborating with other builders and getting involved in the developer community at McMaster.
 
-<details>
-
-<br>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AayanWasti&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Aayan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanWasti&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Aayan's most used public repository languages" />
-</p>
-
-<sub>These cards reflect public GitHub activity and may not include private work.</sub>
-
-</details>
-
 ---
 
 <div align="center">
