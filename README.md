@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="./assets/observatory-header.svg" alt="Aayan Wasti — a simple peach and pink cloud-inspired banner." width="100%" />
+<img src="./assets/observatory-header.svg" alt="Hey, I am Aayan Wasti — a one-time typewriter greeting over sunset clouds." width="100%" />
 
-Computer Science (Co-op) at **McMaster University** · Full-Stack Development · Applied AI
 
 <p>
   <a href="https://aayan-wasti.vercel.app"><img src="https://img.shields.io/badge/Portfolio-625F69?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
