@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Aayan Wasti — Full-stack engineering and applied AI</title>
+<desc id="desc">An original navy observatory-style banner with an orbiting binary star map, introducing Aayan Wasti.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071626"/><stop offset=".58" stop-color="#102541"/><stop offset="1" stop-color="#183A55"/></linearGradient>
+  <radialGradient id="aura"><stop offset="0" stop-color="#396F91" stop-opacity=".55"/><stop offset="1" stop-color="#396F91" stop-opacity="0"/></radialGradient>
+  <linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E8D4A3"/><stop offset="1" stop-color="#66B5D7"/></linearGradient>
+</defs>
+<rect width="1280" height="360" rx="18" fill="url(#night)"/>
+<circle cx="1030" cy="175" r="287" fill="url(#aura)"/>
+<path d="M0 321H1280 M0 40H1280" stroke="#B6D8FA" opacity=".10"/>
+<path d="M54 0V360 M1226 0V360" stroke="#B6D8FA" opacity=".09"/>
+<circle cx="59" cy="85" r="0.8" fill="#E4C789" opacity="0.23"/>
+<circle cx="252" cy="212" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="445" cy="339" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="638" cy="130" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="831" cy="257" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="1024" cy="48" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="1217" cy="175" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="168" cy="302" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="361" cy="93" r="0.7" fill="#E4C789" opacity="0.31"/>
+<circle cx="554" cy="220" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="747" cy="347" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="940" cy="138" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="1133" cy="265" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="84" cy="56" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="277" cy="183" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="470" cy="310" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="663" cy="101" r="1.1" fill="#E4C789" opacity="0.44"/>
+<circle cx="856" cy="228" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="1049" cy="19" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="1242" cy="146" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="193" cy="273" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="386" cy="64" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="579" cy="191" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="772" cy="318" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="965" cy="109" r="1.2" fill="#E4C789" opacity="0.54"/>
+<circle cx="1158" cy="236" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="109" cy="27" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="302" cy="154" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="495" cy="281" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="688" cy="72" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="881" cy="199" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="1074" cy="326" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="25" cy="117" r="1.6" fill="#E4C789" opacity="0.66"/>
+<circle cx="218" cy="244" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="411" cy="35" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="604" cy="162" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="797" cy="289" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="990" cy="80" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="1183" cy="207" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="134" cy="334" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="327" cy="125" r="0.8" fill="#E4C789" opacity="0.23"/>
+<circle cx="520" cy="252" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="713" cy="43" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="906" cy="170" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="1099" cy="297" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="50" cy="88" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="243" cy="215" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="436" cy="342" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="629" cy="133" r="0.7" fill="#E4C789" opacity="0.31"/>
+<circle cx="822" cy="260" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="1015" cy="51" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="1208" cy="178" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="159" cy="305" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="352" cy="96" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="545" cy="223" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="738" cy="14" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="931" cy="141" r="1.1" fill="#E4C789" opacity="0.44"/>
+<circle cx="1124" cy="268" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="75" cy="59" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="268" cy="186" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="461" cy="313" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="654" cy="104" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="847" cy="231" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="1040" cy="22" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="1233" cy="149" r="1.2" fill="#E4C789" opacity="0.54"/>
+<circle cx="184" cy="276" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="377" cy="67" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="570" cy="194" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<circle cx="763" cy="321" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="956" cy="112" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="1149" cy="239" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="100" cy="30" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="293" cy="157" r="1.6" fill="#E4C789" opacity="0.66"/>
+<circle cx="486" cy="284" r="0.7" fill="#B6D8FA" opacity="0.31"/>
+<circle cx="679" cy="75" r="1.2" fill="#B6D8FA" opacity="0.54"/>
+<circle cx="872" cy="202" r="0.8" fill="#B6D8FA" opacity="0.23"/>
+<circle cx="1065" cy="329" r="1.1" fill="#B6D8FA" opacity="0.44"/>
+<circle cx="1258" cy="120" r="1.6" fill="#B6D8FA" opacity="0.66"/>
+<text x="650" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="718" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="786" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="854" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="922" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="990" y="55" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="650" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="718" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="786" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="854" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="922" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="990" y="142" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="650" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="718" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="786" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="854" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<text x="922" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="990" y="229" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".09">10</text>
+<text x="650" y="316" font-family="monospace" font-size="13" fill="#D8ECFF" opacity=".17">01</text>
+<path d="M652 0L767 360 M715 0L830 360" stroke="#91B6D3" opacity=".045" stroke-width="1"/>
+<g transform="translate(1040 171)">
+  <circle r="117" fill="none" stroke="#B8D8E7" stroke-opacity=".24" stroke-width="1.5" stroke-dasharray="3 8"/>
+  <circle r="88" fill="none" stroke="#E9D3A2" stroke-opacity=".34" stroke-width="1.5"/>
+  <circle r="61" fill="#0C243A" fill-opacity=".83" stroke="#8FB6CB" stroke-opacity=".4" stroke-width="1.5"/>
+  <ellipse rx="135" ry="49" fill="none" stroke="url(#orbit)" stroke-opacity=".75" stroke-width="2" transform="rotate(-27)"/>
+  <ellipse rx="50" ry="128" fill="none" stroke="#78A9C6" stroke-opacity=".29" stroke-width="1.5" transform="rotate(27)"/>
+  <circle cx="113" cy="-74" r="6" fill="#F0DDAF"/>
+  <circle cx="-104" cy="62" r="4.5" fill="#7FD4EB"/>
+  <path d="M-18 0H18 M0 -18V18" stroke="#F0DDAF" stroke-opacity=".54" stroke-width="1.5"/>
+  <text x="0" y="12" font-family="Consolas,monospace" font-size="41" font-weight="700" text-anchor="middle" fill="#EDE1C6" letter-spacing="2">01</text>
+</g>
+<rect x="72" y="49" width="5" height="24" rx="2.5" fill="#E7C988"/>
+<text x="93" y="67" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="4" fill="#A9C7D9">ENGINEERING  /  CURIOSITY  /  AI</text>
+<text x="71" y="177" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="750" letter-spacing="1.2" fill="#F6F7F7">AAYAN WASTI</text>
+<text x="76" y="220" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#D5E7EE">Building software that people can actually use.</text>
+<path d="M76 263H568" stroke="#9CBCD0" stroke-opacity=".38"/>
+<text x="76" y="300" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1.7" fill="#E6D4AD">COMPUTER SCIENCE CO-OP</text>
+<text x="76" y="324" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.6" fill="#ACC9DA">MCMASTER UNIVERSITY  ·  CANADA</text>
+</svg>
