@@ -82,7 +82,6 @@ I enjoy learning by building, shipping early versions, finding what doesn't work
 Outside my own projects, I enjoy collaborating with other builders and getting involved in the developer community at McMaster.
 
 <details>
-<summary><strong>GitHub activity</strong></summary>
 
 <br>
 
