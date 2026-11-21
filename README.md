@@ -1,24 +1,20 @@
 <div align="center">
 
-<img src="./assets/observatory-header.svg" alt="Aayan Wasti — building software that people can actually use. Observatory-inspired illustration with stars and orbiting binary digits." width="100%" />
+<img src="./assets/observatory-header.svg" alt="Aayan Wasti — a simple peach and pink cloud-inspired banner." width="100%" />
 
-<br>
-
-**From rough ideas to real products.**
-
-Computer Science (Co-op) at **McMaster University** · Full-Stack Engineering · Applied AI
+Computer Science (Co-op) at **McMaster University** · Full-Stack Development · Applied AI
 
 <p>
-  <a href="https://aayan-wasti.vercel.app"><img src="https://img.shields.io/badge/Explore_My_Portfolio-162D42?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://ca.linkedin.com/in/aayan-wasti-a890b8269"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://placdai.com"><img src="https://img.shields.io/badge/Try_PlacdAI-BD9855?style=for-the-badge&logoColor=white" alt="Try PlacdAI"></a>
+  <a href="https://aayan-wasti.vercel.app"><img src="https://img.shields.io/badge/Portfolio-625F69?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://ca.linkedin.com/in/aayan-wasti-a890b8269"><img src="https://img.shields.io/badge/LinkedIn-9A7884?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://placdai.com"><img src="https://img.shields.io/badge/PlacdAI-CB887B?style=flat-square&logoColor=white" alt="Try PlacdAI"></a>
 </p>
 
 </div>
 
 ---
 
-## 01 / A little about me
+## About me
 
 I'm a first-year **Computer Science co-op student at McMaster University**. I like building across the stack, from figuring out how a system should work to making its interface feel right.
 
@@ -29,7 +25,7 @@ For me, the best part is turning an idea into something someone else can open, t
 - 🧠 **Interested in:** Product engineering, developer tools, applied AI, and thoughtful design.
 - 💼 **Looking ahead:** Summer 2027 software engineering internships and opportunities to collaborate.
 
-## 02 / Selected work
+## Projects
 
 ### 🏠 [PlacdAI](https://placdai.com) — See what your space could become
 
@@ -55,7 +51,7 @@ An AI-powered health information assistant developed through AIHealth, designed 
 | 🔎 **[career-ops](https://github.com/AayanWasti/career-ops)** | Open-source work around AI-assisted job search and application workflows. |
 | 🌌 **[My portfolio](https://aayan-wasti.vercel.app)** | A personal space for projects, ideas, and a little curiosity-driven design. |
 
-## 03 / The toolbox
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,express,mongodb,supabase,git,vite&perline=7" alt="Python, Java, JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, MongoDB, Supabase, Git, and Vite" />
@@ -68,7 +64,7 @@ An AI-powered health information assistant developed through AIHealth, designed 
 | **Backend & data** | Node.js, Express, MongoDB, Supabase |
 | **Tools & AI** | Git, GitHub, Google Gemini, OpenAI APIs |
 
-## 04 / Beyond the code
+## Beyond the code
 
 I enjoy collaborating with other builders, being part of McMaster's developer community, and learning by shipping things before they're perfect.
 
